@@ -1,5 +1,6 @@
 ### Hi there 👋
-![小小兵]http://https://i.pinimg.com/originals/33/72/a4/3372a43626ac121c4a7f9b7306e95e75.gif 
+![image](https://i.pinimg.com/originals/33/72/a4/3372a43626ac121c4a7f9b7306e95e75.gif) 
+
 <!--
 **Dayu0815/Dayu0815** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
