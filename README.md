@@ -1,8 +1,8 @@
 ### 👋 Hello , Minions welcome everyone to the GitHub world 👋
 
 <p align="START">
-  <img src="https://octodex.github.com/images/minion.png" alt="Minions" width='300px' height='300px'/>
-  <img src="https://i.pinimg.com/originals/33/72/a4/3372a43626ac121c4a7f9b7306e95e75.gif" alt="Minions" width='500px' height='300px'/></p>
+  <img src="https://octodex.github.com/images/minion.png" alt="Minions" title="Minions" width='300px' height='300px'/>
+  <img src="https://i.pinimg.com/originals/33/72/a4/3372a43626ac121c4a7f9b7306e95e75.gif" alt="Minions" title="Minions" width='500px' height='300px'/></p>
  
  - 😍 I love Minions so much ...
  
