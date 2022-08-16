@@ -1,7 +1,8 @@
 ### 👋 Hello , Minions welcome everyone to the GitHub world 👋
 <p align="START">
-  <img src="https://octodex.github.com/images/minion.png" alt="Minions" title="Minions" width='300px' height='300px'/>
-  <img src="https://i.pinimg.com/originals/33/72/a4/3372a43626ac121c4a7f9b7306e95e75.gif" alt="Minions" title="Minions" width='500px' height='300px'/></p>
+  <img src="https://octodex.github.com/images/minion.png" alt="Minions" title="Minions" width='150px' height='150px'/>
+  <img src="https://i.pinimg.com/originals/33/72/a4/3372a43626ac121c4a7f9b7306e95e75.gif" alt="Minions" title="Minions" width='250px' height='150px'/>
+  <img src="https://octodex.github.com/images/minion.png" alt="Minions" title="Minions" width='150px' height='150px'/></p>
  
  
  
@@ -17,6 +18,7 @@
 **Dayu0815/Dayu0815** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+Modify img layout position
 Modify the content of the readme introduction
 
 GitHub的README.md加入圖片及gif的方法 https://bit.ly/3QwMQsn
