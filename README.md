@@ -6,11 +6,11 @@
  
  
  
- - 😍 I love `Minions` so much ...
+ - 😍 I love `Minions` so much 😍 -
  
- - 🔭 I’m currently working on Medical Institutions in `Taichung City`...
+ - 🔭 I’m currently working on Medical Institutions in `Taichung City` 🔭 -
  
- - 🌱 I’m currently learning `Front-end and back-end programming languages`...
+ - 🌱 I’m currently learning `Front-end and back-end programming languages` 🌱 -
 
 
 
